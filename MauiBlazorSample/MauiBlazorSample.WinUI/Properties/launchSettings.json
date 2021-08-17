@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MauiBlazorSample.WinUI": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
